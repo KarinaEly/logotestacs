@@ -24,7 +24,8 @@
     padding: 12px 12px 12px 12px;
 }
 
-hr{
+.bordure{
     margin-left: 50px;
-    
+    width: 39%;
+    height: 3px!important;
 }
